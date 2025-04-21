@@ -2,6 +2,7 @@
 import os
 import ast
 import pandas as pd
+import re
 
 def load_text_as_tuples(path: str):
     tuples = []
@@ -9,6 +10,8 @@ def load_text_as_tuples(path: str):
         for line in f:
             line = line.strip().rstrip(',')  # quitamos el salto de línea y la coma final
             if line:  # si la línea no está vacía
+                # Reemplazamos 'Null' o 'null' (con o sin comillas) por None
+                line = re.sub(r"\bnull\b", "None", line, flags=re.IGNORECASE)
                 parsed = ast.literal_eval(line)
                 tuples.append(parsed)
     return tuples
