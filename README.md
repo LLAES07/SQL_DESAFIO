@@ -14,6 +14,11 @@ En este repositorio, podrás observar mi capacidad para realizar **consultas SEL
 - Caso de estudio #2: Pizzeria **[Respuestas SQL y PANDAS]**
 - Caso de estudio #3: Foodie - FI **[Respuestas SQL y PANDAS]**
 - Caso de estudio #4: Datos de banco **[Respuestas SQL y PANDAS]**
+- Caso de estudio #5:  **[Respuestas SQL]**
+- Caso de estudio #6: **[Respuestas SQL]**
+- Caso de estudio #7:  **[Respuestas SQL]**
+- Caso de estudio #8:  **[Respuestas SQL]**
+
 
 **Cómo Utilizar Este Repositorio:**
 
