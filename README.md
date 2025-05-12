@@ -1,6 +1,6 @@
 # **DESAFIO SQL 8 SEMANAS** 🕵️
 
-¡Hola! 👋 Este repositorio contiene las soluciones que desarrollé durante el desafío de 8 semanas de SQL propuesto por [si hubo alguna fuente específica, puedes mencionarla].
+¡Hola! 👋 Este repositorio contiene las soluciones que desarrollé durante el desafío de 8 semanas de SQL propuesto por [[8 weeks sql challenge](https://8weeksqlchallenge.com/)].
 
 **Mi Motivación:**
 
