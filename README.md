@@ -10,7 +10,7 @@ Mi principal motivación al completar este desafío fue **consolidar y profundiz
 
 En este repositorio, podrás observar mi capacidad para realizar **consultas SELECT complejas**, incluyendo el uso de **JOINs**, **GROUP BY**, **HAVING**, **subconsultas** y **funciones de ventana**. También se evidencia mi habilidad para **manipular y transformar datos** utilizando funciones como **CASE WHEN**, **DATE_FORMAT**, **CONCAT** y otras funciones específicas de SQL. El caso de estudio #2 también demuestra mi capacidad para **integrar SQL con Pandas** para el análisis y la presentación de resultados.
 
-- Caso de estudio #1 : Cena de Dani
+- Caso de estudio #1 : Cena de Dani **[Respuestas SQL y PANDAS]** // **Base de datos: SQL-LITE**
 - Caso de estudio #2: Pizzeria **[Respuestas SQL y PANDAS]**
 - Caso de estudio #3: Foodie - FI **[Respuestas SQL y PANDAS]**
 - Caso de estudio #4: Datos de banco **[Respuestas SQL y PANDAS]**
