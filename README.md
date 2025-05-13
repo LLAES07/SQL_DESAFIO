@@ -22,6 +22,8 @@ En este repositorio, podrás observar mi capacidad para realizar **consultas SEL
 
 **Cómo Utilizar Este Repositorio:**
 
+Para revisar cada caso, elegir la carpeta con el numero del caso y dentro encontraras como se generó la base de datos y las preguntas con sus respectivas respuestas.
+
 Te invito a explorar cada caso de estudio y revisar las consultas SQL que desarrollé para resolver los problemas planteados. Puedes utilizar estas soluciones como **referencia o inspiración** para tus propios desafíos de SQL.
 
 Si tienes alguna **pregunta o sugerencia**, no dudes en abrir un 'issue' en este repositorio. ¡Estaré encantado de discutir mis soluciones y aprender de tu feedback!
