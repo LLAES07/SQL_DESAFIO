@@ -12,7 +12,7 @@ En este repositorio, podrás observar mi capacidad para realizar **consultas SEL
 
 ### - Caso de estudio #1 : Cena de Dani
    - **[Respuestas SQL y PANDAS]** // **Base de datos: SQL-LITE**
-- Caso de estudio #2: Pizzeria
+### - Caso de estudio #2: Pizzeria
   - **[Respuestas SQL y PANDAS]** // **Base de datos: SQL-LITE**
 ### - Caso de estudio #3: Foodie - FI
   - **[Respuestas SQL y PANDAS]**  // **Base de datos: SQL-LITE**
