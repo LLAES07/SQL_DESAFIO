@@ -19,7 +19,7 @@ En este repositorio, podrás observar mi capacidad para realizar **consultas SEL
 ### - Caso de estudio #4: Datos de banco
   -  **[Respuestas SQL y PANDAS]** // **Base de datos: SQL-LITE**
 ### - Caso de estudio #5: Mercado de Datos
-  - **[Respuestas SQL]**  // **Base de datos: SQL - ALCHEMY**
+  - **[Respuestas SQL]**  // **Base de datos: MYSQLCONNECTIOR**
 ### - Caso de estudio #6: Cebo de Clics
   - **[Respuestas SQL]** // **Base de datos: SQL - ALCHEMY**
 ### - Caso de estudio #7: La Compañía de Ropa Árbol Balanceado
